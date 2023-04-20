@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'tphan-test-6xfdtkme-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D35147C95DB42A9A70473AA23E1E7D5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9125D00A2A664B8DB50FDADDE2C54C74 }}
